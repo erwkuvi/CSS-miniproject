@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.json
+*.png
+*.svg
+icons/
+images/
